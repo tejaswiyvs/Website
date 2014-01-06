@@ -1,0 +1,1 @@
+var fn = (function (x) { return x * x })
