@@ -1,3 +1,1 @@
-var fn = (function (x) { return x * x })
-
-var test = getSessionValue("test", "")
+var test = valueFromSession("test", "")
